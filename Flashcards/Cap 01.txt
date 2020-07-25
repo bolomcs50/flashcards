@@ -1,0 +1,117 @@
+VERBEN
+arbeiten, lavorare
+buchstabieren, fare lo spelling
+fragen, chiedere
+haben, avere
+hören, sentire
+kommen, venire
+leben, vivere
+lernen, imparare
+lesen, leggere
+machen, fare
+meinen, pensare
+möchten, desiderare
+raisen, viaggiare
+schreiben, scrivere
+sein, essere
+spielen, giocare / recitare
+sprechen, parlare
+studieren, studiare
+warten, aspettare
+werden, diventare
+wohnen, abitare
+NOMEN
+n, Alter, 0, l'età
+m, Ausländer, -, lo straniero
+f, Ausländerin, -nen, la straniera
+m, Beruf, -e, la professione
+0, Deutschland, 0, la Germania
+pl, Eltern, 0, i genitori
+m, Familienname, 0, il cognome
+m, Familienstand, 0, lo stato di famiglia
+m, Fotograf, -en, il fotografo
+f, Frau, -en, la signora
+m, Geburtstag, 0, il compleanno
+f, Hausfrau, 0, la casalinga
+m, Herr, -en, il signore
+n, Hobby, -, lo hobby
+n, Jahr, -e, l'anno
+f, Kauffrau, -en, l'impiegata
+n, Kind, -er, il bambino/a
+m, Kurs, -e, il corso
+n, Land, ä-er, il Paese
+pl, Leute, 0, la gente
+f, Lösung, -en, la soluzione
+m, Mechaniker, -, il meccanico
+m, Monat, -e, il mese
+m, Name, -n, il nome
+m, Ort, -e, il luogo
+0, Österreich, 0, l'Austria
+f, Postkarte, -n, la cartolina
+f, Postleitzhal, -en, il codice postale
+f, Reiseleiterin, -nen, la hostess
+f, Schülerin, -nen, la studentessa
+f, Schweiz, 0, la Svizzera
+f, Seite, -n, la pagina
+f, Sekretärin, -nen, la segretaria
+f, Straße, -n, la via
+m, Student, -en, lo studente
+m, Tag, -e, il giorno
+n, Telefon, -e, il telefono
+f, Telefonnumer, 0, il numero di telefono
+m, Vorname, 0, il nome
+m, Wohnort, 0, il domicilio
+f, Zahl, -e, il numero
+ADJEKTIVE
+alt, vecchio
+berufstätig, di lavoro
+frei, libero
+geschieden, divorziato
+gut, buono
+klein, piccolo
+ledig, nubile / celibe
+neu, nuovo
+verheiratet, sposato
+ADVERBIEN
+bitte, per favore
+da, lì / là
+erst, solo
+etwa, circa
+hier, qui
+jetzt, adesso
+leider, purtroppo
+nicht, non
+noch, ancora
+noch einmal, ancora una volta
+schon, già,
+übrigens, a proposito
+FUNKTIONSWÖRTE
+aber, ma
+aus, di
+das, questo
+dein, il tuo
+denn, perché
+in, a
+ja, sì
+man, si (impersonale)
+mein, il mio
+mit, con
+und, e
+von, di
+was?, che cosa?
+wer?, chi?
+wie?, come?
+wie viel?, quanto?
+wo?, dove?
+woher?, da dove?
+wohin?, verso dove?
+AUSDRÜCKE
+Ach so!, ah, sì!
+Auf Wiedersen!, arrivederci!
+Bitte schön!, prego!
+Danke!, Grazie!
+es geht, non c'è male
+Danke schön!, grazie mille!
+Entschuldigung!, mi scusi!
+Macht nichts, Di niente
+Wie bitte?, Come scusi?

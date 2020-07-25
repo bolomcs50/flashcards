@@ -1,0 +1,115 @@
+VERBEN
+abfahren, partire
+abholen, andare a prendere
+abstellen, spegnere
+ansehen, guardare
+anstellen, accendere
+ausmachen, spegnere
+aussteigen, scendere
+ausziehen, andarsene
+einsteigen, salire
+fallen, cadere
+geben, dare
+gewinnen, vincere
+gießen, annaffiare
+heiraten, sposare
+kennenlernen, fare la conoscenza
+kündigen, licenziarsi
+machen lassen, far fare
+malen, dipingere
+merken, notare / accorgersi
+operieren, operare
+parken, parcheggiare
+putzen, lavare / pulire
+rufen, chiamare
+sitzen, sedere / essere seduto
+spielen lassen, far giocare
+telefonieren, fare telefonate
+tragen, portare
+überlegen, pensare
+umziehen, traslocare
+vorbeikommen, passare
+wecken, svegliare
+wegfahren, partire
+weinen, piangere
+NOMEN
+f, Addresse, -n, l'indirizzo
+m, April, 0, Aprile
+m, August, 0, Agosto
+f, Autobahn, -en, l'autostrada
+f, Bank, ä-e, la panca
+m, Bericht, -e, il racconto
+m, Besucht, -e, la visita
+f, Blume, -n, il fiore
+m, Boden, ö-, il pavimento
+m, Brief, -e, la lettera
+n, Büro, -s, l'ufficio
+f, Decke, -n, il soffitto
+m, Dezember, 0, Dicembre
+n, Fahrrad, ä-er, la bicicletta
+f, Farbe, -n, il colore
+m, Februar, 0, Febbraio
+f, Freundin, -nen, l'amica
+f, Haltestelle, -n, la fermata
+m, Handwerker, -, l'operaio
+f, Heizung, 0, il riscaldamento
+f, Jacke, -n, la giacca
+m, Januar, 0, Gennaio
+m, Juni, 0, Giugno
+m, Juli, 0, Luglio
+f, Katze, -n, gatto
+m, Kindergarten, ä-e, l'asilo infantile
+m, Knopf, ö-e, il bottone
+n, Loch, ö-er, il buco
+m, Mai, 0, Maggio
+m, Maler, -, l'imbianchino
+m, Mann, ä-er, il marito
+m, Märtz, 0, Marzo
+f, Möglichkeit, -en, la possibilità
+m, November, 0, Novembre
+m, Oktober, 0, Ottobre
+m, Parkplatz, ä-e, il parcheggio
+n, Pech, 0, la sfortuna
+f, Polizei, 0, la polizia
+f, Polizistin, -nen, la poliziotta
+f, Prüfung, -en, l'esame
+f, Reise, -n, il viaggio
+f, Sache, -n, quello che èè successo
+f, Schule, -n, la scuola
+m, September, 0, Settembre
+f, Stadt, ä-e, la città
+m, Supermarkt, ä-e, il supermercato
+n, Theater, -, il teatro
+f, Treppe, -n, la scala
+f, Tür, -en, la porta
+m, Unfall, ä-e, l'incidente
+m, Vater, ä-, il padre
+f, Wand, ä-e, la parete
+f, Welt, 0, il mondo
+m, Zettel, -, il biglietto
+ADJEKTIVE
+falsch, sbagliato
+schrecklich, terribile
+still, silenzioso
+ADVERBIEN
+allein, da solo
+auf einmal, improvvisamente
+außerdem, inoltre
+diesmal, questa volta
+einfach, semplicemente
+gerade, appena
+gestern, ieri
+letzt-, scorso / passato
+selbstverständlich, naturalmente
+wieder, di nuovo
+wohl, rafforzativo
+AUSDRÜCKE
+Besuch haben, avere visite
+Bis bald!, a presto!
+da sein, esserci
+ein paar, un padio di
+Grüß dich!, Ciao!
+Klar!, Chiaro!
+nach Hause, a casa
+verabeder sein, avere un appuntamento
+weg sein, non esserci più

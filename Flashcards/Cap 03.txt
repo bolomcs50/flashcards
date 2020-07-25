@@ -1,0 +1,157 @@
+VERBEN
+backen, cuocere al forno
+bestellen, ordinare
+bezhalen, pagare
+brauchen, avere bisogno (= to need)
+erkennen, conoscere
+erzählen, raccontare
+essen, mangiare
+glauben, credere / pensare
+kennen, conoscere
+kochen, cuocere / cucinare
+mögen, piacere
+nehmen, prendere
+schmecken, avere un buon sapere
+trinken, bere
+üben, esercitarsi
+NOMEN
+n, Abendessen, 0, la cena
+m, Alkohol, 0, l'alcol
+f, Anzeige, -n, l'annuncio
+m, Apfel, ä, la mela
+n, Bier, 0, la birra
+f, Bohne, -n, il fagiolo
+n, Brot, -e, il pane
+n, Brötchen, -, il panino
+f, Butter, 0, il burro
+f, Dose, -n, la lattina
+n, Ei, -er, l'uovo
+n, Eis, 0, il gelato
+f, Erdbeere, -n, la fragola
+m, Euro, 0, l'Euro
+n, Export, -, la birra Export
+m, Fisch, -e, il pesce
+f, Flasche, -n, la bottiglia
+n, Fleisch, 0, la carne
+f, Frage, -n, la domanda
+f, Frucht, ü-e, la frutta
+n, Frühstück, 0, la colazione
+f, Gabel, -n, la forchetta
+m, Gasthof, ä-e, la locanda
+n, Gemüse, 0, la verdura
+n, Gericht, -e, il piatto
+n, Gespräch, -e, la conversazione
+n, Getränk, -e, la bevanda
+n, Gewürz, -e, la spezia
+n, Glas, ä-er, il bicchiere
+n, Gramm, 0, il grammo
+n, Hähnchen, 0, il pollo
+m, Kaffee, 0, il caffè
+f, Kartoffel, -n, la patata
+m, Käse, 0, il formaggio
+n, Kilo, -s, Kilogrammo
+n, Kotelett, -s, la cotoletta
+m, Kuchen, -, il dolce
+f, Limonade, -n, la limonata
+m, Liter, -, il litro
+m, Löffel, -, il cucchiaio
+f, Marmelade, -n, la marmellata
+n, Mehl, 0, il miele
+n, Messe, -, il coltello
+f, Milch, 0, il latte
+n, Mineralwasser, 0, l'acqua minerale
+m, Nachtisch, -e, il dessert
+n, Öl, -e, l'olio
+m, Pfeffer, 0, il pepe
+n, Pfund, 0, mezzo chilo
+m, Preis, -e, il prezzo
+m, Reis, 0, il riso
+m, Rotwein, -e, il vino rosso
+m, Saft, ä-e, il succo
+f, Sahne, 0, la panna
+m, Salat, -e, l'insalata
+m, Schinken, -, il prosciutto
+m, Schnaps, ä-e, la grappa
+f, Schokolade, -n, la cioccolata
+f, Soße, -n, la salsa / il sugo
+f, Speiskarte, -n, La carta / il menù
+n, Steak, -s, la bistecca
+f, Suppe, -n, la minestra
+f, Tasse, -n, la tazza
+m, Tee, -s, il tè
+m, Teller, -, il piatto
+f, Tomate, -n, il pomodoro
+f, Vorspeise, -n, l'antipasto
+f, Wäsche, 0, la biancheria
+f, Wurst, ü-e, la salsiccia
+m, Zettel, -, la nota
+m, Zucker, 0, lo zucchero
+f, Zwiebel, -n, la cipolla
+ADJEKTIVE
+billig, economico
+bitter, amaro
+dunkel, scuro
+eng, stretto
+fantastich, fantastico
+fett, grasso
+frisch, fresco
+groß, grande
+grün, verde
+hart, duro
+hell, chiaro
+hoch, alto
+kalt, freddo
+mild, leggero
+nah, vicino
+normal, normale
+rot, rosso
+salzig, salato
+satt, sazio
+sauer, aspro / acido
+scharf, piccante
+schlank, sottile
+stark, forte
+süß, dolce
+trocken, asciutto
+typisch, tipico
+verschieden, diverso
+warm, caldo
+wichtig, importante
+ADVERBIEN
+abends, di sera
+besonders, particolarmente
+danach, poi
+dann, poi
+fast, quasi
+ganz, tutto
+genug, abbastanza
+gern, volentieri
+lieber, piuttosto
+manchmal, qualche volta
+mittags, a mezzogiorno
+morgens, di mattina
+nachmittags, di pomeriggio
+natürlich, naturalmente
+nur, solo
+oben, in alto
+oft, spesso
+so, così
+sofort, subito
+überall, ovunque
+unten, in basso
+vor allem, soprattuto
+vorwiegend, prevalentemente
+zuerst, prima
+zusammen, insieme
+FUNKTIONSWÖRTE
+alle, tutti / tutte
+als, come
+doch, ma / ma sì
+etwas, un po' di
+jeder, ciascuno
+mit, con
+pro, pro
+viel, molto
+zu, a
+AUSDRÜCKE
+es gibt, c'è

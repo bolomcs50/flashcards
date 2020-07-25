@@ -1,0 +1,85 @@
+VERBEN
+antworten, rispondere
+bekommen, ricevere / avere
+bieten, offrire
+entscheiden, decidere
+entschuldigen, scusare
+fahren, andare
+funktionieren, funzionare
+gehen, andare / funzionare
+können, potere / sapere
+korrigieren, correggere
+kosten, costare
+sagen, dire
+spülen, lavare i piatti
+stimmen, essere giusto / vero
+waschen, lavare
+wechseln, cambiare
+NOMEN
+f, Antwort, -en, la risposta
+n, Auto, -s, l'automobile
+f, Batterie, -n, la batteria
+n, Benzin, 0, la benzina
+n, Bett, -en, il letto
+n, Bild, -er, il quadro
+m, Fehler, -, l'errore
+m, Fernsehapparat, -e, il televisore
+n, Foto, -s, la fotografia
+m, Fotoapparat, -e, la macchina fotografica
+n, Geld, 0, il denaro
+n, Geschäft, -e, il negozio
+f, Gruppe, -n, il gruppo
+n, Haus, ä-er, la casa
+m, Haushalt, -e, la casa / la famiglia 
+m, Herd, -e, la cucina economica (?)
+f, Idee, -n, l'idea
+m, Junge, -n, il ragazzo
+f, Kamera, -s, la macchina fotografica
+f, Karte, -n, la carta
+f, Kassette, -n, la cassetta
+f, Küche, -n, la cucina
+m, Kugelschreiber, -, la penna
+m, Kühlschrank, ä-e, il frigorifero
+f, Lampe, -n, la lampada
+n, Mädchen, -, la ragazza
+f, Minute, -n, il minuto
+f, Person, -en, la persona
+n, Problem, -e, il problema
+n, Programm, -e, il programma
+n, Radio, -s, la radio
+n, Regal, -e, lo scaffale
+m, Schrank, ä-e, l'armadio
+f, Steckdose, -n, la presa elettrica
+m, Stecker, -, la spina elettrica
+m, Stuhl, ü-e, la sedia
+m, Tisch, -e, il tavolo
+m, Topf, ö-e, la pentola
+f, Uhr, -en, l'orologio
+n, Waschbecken, -, il lavandino
+f, Waschmaschine, -n, la lavatrice
+m, Wert, -e, il valore
+n, Wort, ö-er, la parola
+f, Zeit, 0, il tempo
+ADJEKTIVE
+änlich, analogo/simile
+bequem, comodo
+ehrlich, sincero
+kaputt, rotto
+leer, scarico/vuoto
+lustig, divertente
+modern, moderno
+originell, originale
+praktisch, pratico
+ADVERBIEN
+auch, anche
+sehr, molto
+heute, oggi
+viel, molto
+FUNKTIONSWÖRTE
+oder, oppure
+sondern, bensì
+zu, a
+AUSDRÜCKE
+alle sein, essere finito
+aus sein, essere (fatto) di
+raus sein, essere fuori / staccato

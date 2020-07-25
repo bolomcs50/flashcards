@@ -1,0 +1,121 @@
+VERBEN
+aufwachen, svegliarsi
+bedeuten, significare
+besuchen, visitare
+bleiben, restare
+dauern, durare
+einpacken, fare le valigie
+einschlafen, addormentarsi
+gehen, andare / camminare
+helfen, aiutare
+hinfallen, cadere
+klingeln, suonare
+mitnehmen, portare con sè
+packen, fare le valigie
+passieren, succedere / accadere
+recht haben, avere ragione
+sollen, dovere
+stehen, essere
+tun, fare
+verstehen, capire
+wehtun, far male
+NOMEN
+f, Angst. ä-e, la paura
+f, Apotheke, -n, la farmacia
+f, Ärztin, -nen, il medico
+n, Auge, -n, l'occhio
+m, Bahnof, ö-e, la stazione
+m, Bauch, ä-e, la pancia
+n, Bein, -e, la gamba
+n, Beispiel, -e, l'esempio
+f, Brust, 0, il petto
+f, Chefin, -nen, il capo / il direttore
+m, Chef, -s, il capo / il direttore
+m, Doktor, -en, il dottore
+n, Drittel, -, terzo
+f, Drogerie, -n, la drogheria
+f, Erkältung, -en, il raffreddore
+f, Frage, -n, la domanda
+m, Fuß, ü-e, il piede
+m, Fußball, 0, il gioco del calcio
+f, Geschichte, -n, la storia
+f, Gesundheit, la salute
+n, Grad, -e, il grado
+f, Grippe, 0, l'influenza
+n, Hals, ä-e, il collo
+f, Hand, ä-e, la mano
+m, Handschuh, -e, il guanto
+m, Husten, 0, la tosse
+n, Knie, -, il ginocchio
+m, Koffer, -, la valigia
+f, Kollegin, -nen, la collega
+m, Kollege, -n, il collega
+m, Konflit, -e, il conflitto
+m, Kopf, ö-e, la testa
+f, Krankenversicherungskarte, -n, la tessera dell'assicurazione sanitaria
+f, Krankenheit, -en, la malattia
+n, Licht, 0, la luce
+f, Luft, 0, l'aria
+m, Magen, ä-e, lo stomaco
+n, Medikament, -e, la medicina
+m, Mund, ü-er, la bocca
+f, Mütze, -n, il berretto
+f, Nacht, ä-e, la notte
+f, Nase, -n, il naso
+n, Obst, 0, la frutta
+n, Papier, 0, la carta
+f, Pflanze, -n, la pianta
+n, Pflaster, -, il cerotto
+m, Pullover, -, il maglione
+m, Rat, Ratschläge, il consiglio
+m, Rücken, -, la schiena
+m, Schmerz, -en, il dolore
+m, Schuofen, 0, il raffreddore
+n, Spiel, -e, il gioco
+m, Sprot, 0, lo sport
+f, Sprechenstunde, -n, orario di visita
+f, Tablette, -n, la pastiglia
+n, Thema, Themen, il tema / l'argomento
+m, Tipp, -s, il suggerimento
+m, Tropfen, -, la goccia
+n, Verbandenszeug, 0, il kit medico
+f, Verstopfing, 0, stitichezza
+m, Wecker, -, la sveglia
+n, Wochenende, -n, il fine settimana
+m, Zahn, ä-e, il dente
+ADJEKTIVE
+arm, povero
+dick, grassottello
+erkältet, raffreddato
+gebrochen, rotto / fratturato
+gefärlich, pericoloso
+gesund, sano
+gleich, stesso
+heiß, caldo
+krank, malato
+kühl, fresco
+müde, stanco / assonnato
+nervös, nervoso
+reich, ricco
+schlimm, grave
+schwer, pesante
+vorsichtig, attento
+ADVERBIEN
+bestimmt, senz'altro
+einmal, una volta
+genau, esattamente
+häufig, spesso
+höchstens, al massimo
+lange, troppo
+plötzlich, improvvisamente
+täglich, al giorno
+unbedingt, assolutamente
+wirklich, davvero
+FUNKTIONSWÖRTE
+ander-, altro
+so viel, tanto
+über, su / riguardo
+AUSDRÜCKE
+ein bisschen, un po' di
+Sport treiben, praticare sport
+zum Beispiel, per esempio

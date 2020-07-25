@@ -1,0 +1,131 @@
+VERBEN
+anrufen, telefonare
+aussehen, sembrare
+baden, fare il bagno
+bauen, costruire
+buchen, prenotare
+diskutieren, discutere
+einziehen, andare ad abitare
+finden, trovare
+gucken, guardare
+herstellen, produrre
+informieren, informare
+leihen, noleggiare
+liegen, essere / trovarsi
+schauen, guardare
+suchen, cercare
+tun, fare
+umziehen, traslocare
+verbieten, vietare
+verdienen, guadagnare
+wollen, volere
+NOMEN
+n, Appartment, -s, il monolocale
+m, Aufzug, ü-e, l'ascensore
+n, Bad, ä-er, il bagno
+m, Balkon, -e/-s, il balcone
+n, Dach, ä-er, il tetto
+n, Ehepaar, -e, la coppia sposata
+n, Einkommen, -, il reddito
+n, Ende, 0, la fine
+n, Erdgeschoss, -e, il piano terra
+f, Erlaubnis, 0, il permesso
+f, Familie, -n, la famiglia
+n, Fenster, -, la finestra
+m, Flur, -e, il corridoio
+m, Fußboden, -ü, il pavimento
+f, Garage, -n, il garage
+f, Garderobe, -n, il guardaroba
+m, Garten, -ä, il giardino
+n, Glück, 0, la fortuna
+n, Hochhaus, ä-er, il palazzo
+m, Hof, ö-e, il cortile
+n, Hotel, -s, l'hotel
+f, Industrie, -n, l'industria
+f, Insel, -n, l'isola
+m, Keller, -, la cantina
+m, Kiosk, -e, il chiosco
+m, Komfort, 0, il confort
+m, Krach, 0, il rumore/il chiasso
+m, Lärm, 0, il rumore
+n, Leben, -, la vita
+f, Miete, -n, l'affitto
+m, Mietvertrag, ä-e, il contratto di affitto
+f, Mutter, ü-, la madre
+m, Nachbar, -n, il vicino di casa
+f, Natur, 0, la natura
+f, Nummer, -n, il numero
+m, Quadratmeter, -, il metro quadro
+m, Raum, ä-e, la stanza/la camera
+n, Reiserbüro, -s, l'agenzia viaggi
+f, Rezeption, 0, la ricezione
+f, Ruhe, 0, la tranquillità
+n, Schlafzimmer, -, la camera da letto
+m, Schreibtisch, -e, la scrivania
+m, Sessel, -, la poltrona
+f, Sonne, -n, il Sole
+m, Spiegel, -, lo specchio
+m, Stock, ö-e, il piano
+m, Strand, ä-e, la spiaggia
+m, Streit, Streitigkeiten, il litigio
+f, Stunde, -n, l'ora
+f, Telefonzelle, -n, la cabina telefonica
+m, Teppich, -e, il tappeto
+f, Terrasse, -n, la veranda / la terrazza
+f, Toilette, -n, il gabinetto
+m, Urlaub, 0, la vacanza
+n, Urteil, -e, la sentenza
+m, Vermieter, -, il padrone di casa
+m, Vogel, ö-, l'uccello
+m, Vorhang, ä-e, la tenda
+m, Wagen, -, l'automobile
+m, Wald, ä-er, il bosco
+f, Ware, -n, la merce
+n, WC, -s, il WC
+m, Wiese, -n, il prato
+f, Woche, -n, la settimana
+n, Wohnzimmer, -, il salotto
+n, Zimmer, -, la camera
+ADJEKTIVE
+direkt, diretto
+fest, vincolato
+frei, libero
+glücklich, felice
+günstig, favorevole / buono
+hässlich, brutto
+herzlich, cordiale
+interessant, interessante
+privat, privato
+ruhig, tranquillo
+sauber, pulito
+schlecht, sfavorevole
+schön, buono / bello
+teuer, costoso
+willkommen, benvenuto
+zufrieden, contento
+ADVERBIEN
+bald, presto
+draußen, fuori
+eigentlich, veramente / in effetti
+endlich, finalmente
+nachts, di notte
+sogar, persino
+vorher, prima
+ziemlich, piuttosto
+FUNKTIONSWÖRTE
+ab, da
+alles, tutto
+an, su
+auf, su
+außerhalb, fuori / in periferia
+beides, entrambi
+für, per
+gar nicht, non... affatto
+in, in 
+niemand, nessuno
+ohne, senza
+trotzdem, nonostante
+unser, nostro
+was für?, Quale?
+zu (mit Adjektiv), troppo
+AUSDRÜCKE
